@@ -64,6 +64,13 @@
       "repeatable": false,
       "component": "page.princing-box",
       "required": true
+    },
+    "sectionAboutUs": {
+      "displayName": "sectionAboutUs",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-us",
+      "required": true
     }
   }
 }
