@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_page_section_schedules",
+  "info": {
+    "displayName": "sectionSchedule"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
